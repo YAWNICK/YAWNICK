@@ -1,6 +1,12 @@
-# Current Project
+# Current Project: TileHunt
 
-## TileHunt
+<p>
+  <img src="https://img.shields.io/badge/python-3776AB?logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/django-092E20?logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-FF4438?logo=Redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NGINX-009639?logo=NGINX&logoColor=white"/>
+</p>
 
 *Gamified cycling. Players capture and steal tiles on the map by uploading activities.*
 
